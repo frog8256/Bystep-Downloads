@@ -23,6 +23,16 @@
 
 [![캘린더 필터 실제 화면](calendar-filter.png)](https://raw.githubusercontent.com/frog8256/Aven-Downloads/main/screenshots/0.7.4-beta-r8/calendar-filter.png)
 
+## 설정 → 캘린더
+
+날짜별 메모 미리보기, 라벨 관리, 캘린더 표시 설정과 사이드바 미니달력 배치 순서·고정 옵션입니다. 현재 배포본에 포함되어 있습니다.
+
+미니달력은 두 가지 배치 순서를 지원하며, 고정을 켜면 이번 달 기준, 끄면 선택한 달 기준으로 전달·다음 달이 표시됩니다.
+
+[원본 사진 열기](https://raw.githubusercontent.com/frog8256/Aven-Downloads/main/screenshots/0.7.4-beta-r8/calendar-settings.png)
+
+[![설정 캘린더 실제 화면](calendar-settings.png)](https://raw.githubusercontent.com/frog8256/Aven-Downloads/main/screenshots/0.7.4-beta-r8/calendar-settings.png)
+
 ## 라벨 관리 · 색상 팔레트
 
 리스트형 라벨 관리와 사용 중인 색상 체크 표시입니다.
