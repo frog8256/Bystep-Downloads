@@ -1,6 +1,9 @@
-# Aven-Downloads
-Official Aven downloads and Windows update feed
+# Bystep Downloads
 
-[Bystep Windows 다운로드](https://github.com/frog8256/Aven-Downloads/releases/latest)
+Official Bystep downloads and Windows update feed. The AI assistant is named **aven**.
 
-[실제 화면 사진 보기 · 휴대폰에서도 확인 가능](screenshots/0.7.4-beta-r8/README.md)
+[Bystep Windows 다운로드](https://github.com/frog8256/Bystep-Downloads/releases/latest)
+
+ZIP을 풀고 `Bystep/Bystep.exe`를 실행하세요. 기존 Aven 설치본도 같은 서명 키로 자동 업데이트할 수 있습니다.
+
+[이전 버전 화면 사진](screenshots/0.7.4-beta-r8/README.md)
